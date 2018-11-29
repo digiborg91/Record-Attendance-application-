@@ -1,0 +1,14 @@
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\bin\Debug\RecordTrak.exe.config
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\bin\Debug\RecordTrak.exe
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\bin\Debug\RecordTrak.pdb
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.csprojAssemblyReference.cache
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.Form1.resources
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.Main.resources
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.Properties.Resources.resources
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.csproj.GenerateResource.cache
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.csproj.CoreCompileInputs.cache
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.exe
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.pdb
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.Holidays.resources
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.Alerts.resources
+C:\Users\Cypher\source\repos\RecordTrak\RecordTrak\obj\Debug\RecordTrak.Mileage.resources
